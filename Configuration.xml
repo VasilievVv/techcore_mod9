@@ -249,6 +249,7 @@
 			<Catalog>Товары</Catalog>
 			<Catalog>Клиенты</Catalog>
 			<Document>Продажа</Document>
+			<DataProcessor>СоздатьТестовыеДанные</DataProcessor>
 			<AccumulationRegister>ПродажиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
