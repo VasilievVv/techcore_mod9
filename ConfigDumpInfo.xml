@@ -11,10 +11,13 @@
 		</Metadata>
 		<Metadata name="CommonModule.ЗамерНачалаОткрытия" id="f1034a4f-0a64-481b-8581-51ef98c0e695" configVersion="443f9c479c9afc4f923f90dbe8d15b0900000000"/>
 		<Metadata name="CommonModule.ЗамерНачалаОткрытия.Module" id="f1034a4f-0a64-481b-8581-51ef98c0e695.0" configVersion="612627dbf3f05949a340672828d46b5b00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a1d7dd09-a1be-4347-9f23-744d8b6c84f5" configVersion="40e4ff019ad7524fa40fb2e63113a20700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a1d7dd09-a1be-4347-9f23-744d8b6c84f5" configVersion="bf0a72ff52a4d64d98118be38729de4c00000000"/>
 		<Metadata name="DataProcessor.СоздатьТестовыеДанные" id="8aec6035-45aa-4f47-840d-9ec5049b5e22" configVersion="f917e32c23708f45a9cdf4b9a4bdd42000000000"/>
 		<Metadata name="DataProcessor.СоздатьТестовыеДанные.Form.Форма" id="abc7685e-ff90-4d25-8124-a6130563db4f" configVersion="5860e5a95d3fac4f9cef7be7532e919900000000"/>
 		<Metadata name="DataProcessor.СоздатьТестовыеДанные.Form.Форма.Form" id="abc7685e-ff90-4d25-8124-a6130563db4f.0" configVersion="0517c7e5418ed746ac34a496ed7b01ce00000000"/>
+		<Metadata name="DataProcessor.ТестированиеОтчетов" id="15f7d574-d216-4194-9f08-5f1bf6292a2a" configVersion="1507f3ca3a12e043bb52a4a03667b24800000000"/>
+		<Metadata name="DataProcessor.ТестированиеОтчетов.Form.Форма" id="e0c55c5f-be61-4c9f-beb2-5d81598ce3ed" configVersion="e565e3313ded234da88bd61471d0931200000000"/>
+		<Metadata name="DataProcessor.ТестированиеОтчетов.Form.Форма.Form" id="e0c55c5f-be61-4c9f-beb2-5d81598ce3ed.0" configVersion="127efc7a8169044eabf5549bf4bb55d600000000"/>
 		<Metadata name="Document.Продажа" id="3643dcce-b8be-49de-9a70-0540270f5986" configVersion="cab199c1bd75c642a0f0d6f873710db900000000">
 			<Metadata name="Document.Продажа.TabularSection.Товары.Attribute.Товар" id="19b7c3e5-1df3-4774-86db-6bdbfb330726"/>
 			<Metadata name="Document.Продажа.TabularSection.Товары" id="71334aa3-28a5-44d9-a973-eb6ace9d9263"/>

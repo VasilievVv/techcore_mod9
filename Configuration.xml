@@ -250,6 +250,7 @@
 			<Catalog>Клиенты</Catalog>
 			<Document>Продажа</Document>
 			<DataProcessor>СоздатьТестовыеДанные</DataProcessor>
+			<DataProcessor>ТестированиеОтчетов</DataProcessor>
 			<AccumulationRegister>ПродажиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
