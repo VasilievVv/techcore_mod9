@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ПродажиТоваров" id="3f88ada5-4081-430f-a05a-5c27be5189ae" configVersion="7efa76c28dc0f94ba13379f67de5c64d00000000">
+			<Metadata name="AccumulationRegister.ПродажиТоваров.Dimension.Товар" id="1a297cea-15c0-41ae-b115-9a9e49365e57"/>
+			<Metadata name="AccumulationRegister.ПродажиТоваров.Resource.Сумма" id="cd459663-6d7b-4759-babc-052c31f6bb96"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты" id="63160661-7cec-40ac-ad96-908324d92c35" configVersion="ea9c4a8476f8df4b9f198329e3558a4700000000"/>
+		<Metadata name="Catalog.Товары" id="2c7ca13b-f123-475e-8249-5e90ddb31688" configVersion="0bac498813aec44780422698ab66016e00000000">
+			<Metadata name="Catalog.Товары.Attribute.Цена" id="7a1af5b8-3515-4059-9f50-902fdf0d197f"/>
+		</Metadata>
+		<Metadata name="CommonModule.ЗамерНачалаОткрытия" id="f1034a4f-0a64-481b-8581-51ef98c0e695" configVersion="443f9c479c9afc4f923f90dbe8d15b0900000000"/>
+		<Metadata name="CommonModule.ЗамерНачалаОткрытия.Module" id="f1034a4f-0a64-481b-8581-51ef98c0e695.0" configVersion="612627dbf3f05949a340672828d46b5b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a1d7dd09-a1be-4347-9f23-744d8b6c84f5" configVersion="bc481acfd0c51e46980c3ac64c9a384a00000000"/>
+		<Metadata name="Document.Продажа" id="3643dcce-b8be-49de-9a70-0540270f5986" configVersion="cab199c1bd75c642a0f0d6f873710db900000000">
+			<Metadata name="Document.Продажа.TabularSection.Товары.Attribute.Товар" id="19b7c3e5-1df3-4774-86db-6bdbfb330726"/>
+			<Metadata name="Document.Продажа.TabularSection.Товары" id="71334aa3-28a5-44d9-a973-eb6ace9d9263"/>
+			<Metadata name="Document.Продажа.TabularSection.Товары.Attribute.Цена" id="cffc7a59-60f1-4c8a-beb9-fd52dad67da9"/>
+			<Metadata name="Document.Продажа.TabularSection.Товары.Attribute.Количество" id="dcedf70a-9944-4975-beb7-38a4968ea853"/>
+		</Metadata>
+		<Metadata name="Document.Продажа.ObjectModule" id="3643dcce-b8be-49de-9a70-0540270f5986.0" configVersion="0f2f1e8bd9d9fe4f98774775382a563500000000"/>
+		<Metadata name="Language.Русский" id="83c6e945-a2e1-4ed4-b773-9b0c38e2564f" configVersion="e328b9c41fe100458f6452025ac3ca7f00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
